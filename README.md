@@ -11,5 +11,4 @@
 - Add downloadable resume
 - Finish other page sections
 - Add graphics and refine animations
-- Integrate GraphQL/Apollo
 - Add backend (Firebase or a Headless CMS)
